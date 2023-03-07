@@ -1,6 +1,6 @@
 # Employee_ManagementSystem
 A mini project using:
-SpringBoot
-Mysql 
-HTML
+SpringBoot |
+Mysql |
+HTML |
 Bootstrap
